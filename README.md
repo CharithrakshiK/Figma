@@ -62,7 +62,7 @@ html
   <div class="text-0-1-5">REGISTER</div>
 </div>
 
-css code 
+css code
 
 .container--0- {
   position: absolute;
@@ -107,7 +107,7 @@ css code
 
 page2
 
-html code
+html
 
 <div class="container--0-">
   <img
@@ -144,7 +144,7 @@ css code
 
 page3
 
-html code
+html
 
 <div class="container--0-">
   <img
@@ -197,7 +197,7 @@ html code
   <div class="text-0-1-7">REGISTER</div>
 </div>
 
-css code
+css html
 
 .container--0- {
   position: absolute;
@@ -229,14 +229,11 @@ css code
   text-align: left;
   vertical-align: top;
 }
-
 ```
+# output:
 
+![alt text](<Screenshot 2024-12-17 144706-1.png>)
 
-## OUTPUT:
+# Result
 
-![alt text]({19179615-A703-44D8-9C13-8126D1CCB83B}.png)
-
-
-## RESULT:
-The program to design, develop and deploy a web application for event registration is completed successfully.
+The program to design ,develope, and deploy a web application for event registration is completed successfully
